@@ -1,0 +1,45 @@
+#box1 {
+position: absolute;
+left: 200px;
+border: 2px solid #73AD21;
+width: 300px;
+} 
+
+#box2 {
+border: 2px solid #73AD21;
+position: absolute;
+right: 250px;
+width: 800px;
+}
+table {
+    width: 600px;
+    height: 100px;
+    border: 2px solid #111010;
+  }
+  h1{
+      color: rgb(114, 5, 5);
+  }
+  h2 {
+      color: blue;
+  }
+  h3 {
+      color: rgb(143, 238, 11);
+  }
+  h4 {
+      color: rgb(10, 54, 248);
+  }
+  p {
+      font-size: 20px;
+  }
+  th {
+      text-align: left;
+  }
+  .exp {
+      background-color: aliceblue;
+  }
+  .edu {
+    background-color: aliceblue;
+  }
+  .skills {
+    background-color: aliceblue;
+  }
