@@ -3,6 +3,10 @@ position: absolute;
 left: 200px;
 width: 300px;
 } 
+#image {
+    border: 7px solid rgb(99, 2, 2);
+    border-radius: 20px;
+}
 
 #box2 {
 position: absolute;
@@ -21,7 +25,11 @@ table {
       color: blue;
   }
   h3 {
-      color: rgb(143, 238, 11);
+      color: rgb(7, 250, 39);
+      font-style: italic;
+      border-bottom: double;
+      border-bottom-color: rgb(99, 2, 2);
+      border-bottom-width: 5px;
   }
   h4 {
       color: rgb(10, 54, 248);
