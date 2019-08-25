@@ -10,8 +10,9 @@ width: 300px;
 
 #box2 {
 position: absolute;
-right: 250px;
+right: 200px;
 width: 800px;
+margin-left: 15px;
 }
 table {
     width: 600px;
